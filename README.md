@@ -11,11 +11,11 @@ Then you can run the program on the IDE. Next, enter the values of X1, X2, Y1, a
 You only need to input the value of the variables, X1, X2, Y1, and Y2.
 
 ## Sample Output
-Enter x1: 2
-Enter y1: 3
-Enter x2: 7
-Enter y2: 8
-The distance between the two points is 7.07
+- Enter x1: 2
+- Enter y1: 3
+- Enter x2: 7
+- Enter y2: 8
+- The distance between the two points is 7.07
 
 ## Author
 Name: Kaleb Tyler Andre' C. Diamante
